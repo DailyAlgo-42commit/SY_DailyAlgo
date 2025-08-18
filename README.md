@@ -1,14 +1,9 @@
-📚 개인 학습 기록
-이 레포지토리는 개인적으로 진행하는 학습 내용을 정리하는 공간
 
-BarkingDogLecture
-진행 강의: 바킹독의 실전 알고리즘
+# BarkingDogLecture
+바킹독의 실전 알고리즘(https://www.youtube.com/watch?v=LcOlobH7ues&list=PLtqbf2VIQv4O6D6I9HcD732hdrnYb6CY)
+하루에 1개씩 강의를 수강하고 내용을 정리하여 업로드
 
-목표: 하루에 1개씩 강의를 수강하고 내용을 정리하여 업로드
+# Programmers
+프로그래머스 코딩테스트 연습 문제 풀이
 
-학습 내용: 강의 요약
 
-Programmers
-내용: 프로그래머스 코딩테스트 연습 문제 풀이
-
-목표: 꾸준한 문제 풀이를 통해 알고리즘 역량을 키우고, 풀이 코드를 업로드
